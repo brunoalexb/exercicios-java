@@ -30,26 +30,32 @@ public class ReajusteSalarial {
         case 1:
             cargo = "Gerente";
             percentualReajuste = 0.10f;
+            System.out.println("Você selecionou o cargo: " + selecioneCargo + " - " + cargo);
             break;
         case 2:
             cargo = "Vendedor";
             percentualReajuste = 0.07f;
+            System.out.println("Você selecionou o cargo: " + selecioneCargo + " - " + cargo);
             break;
         case 3:
             cargo = "Supervisor";
             percentualReajuste = 0.09f;
+            System.out.println("Você selecionou o cargo: " + selecioneCargo + " - " + cargo);
             break;
         case 4:
             cargo = "Motorista";
             percentualReajuste = 0.06f;
+            System.out.println("Você selecionou o cargo: " + selecioneCargo + " - " + cargo);
             break;
         case 5:
             cargo = "Estoquista";
             percentualReajuste = 0.05f;
+            System.out.println("Você selecionou o cargo: " + selecioneCargo + " - " + cargo);
             break;
         case 6:
             cargo = "Técnico de TI";
             percentualReajuste = 0.08f;
+            System.out.println("Você selecionou o cargo: " + selecioneCargo + " - " + cargo);
             break;
         default:
             System.out.println("Código de cargo inválido.");
