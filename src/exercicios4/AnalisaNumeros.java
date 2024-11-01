@@ -45,7 +45,6 @@ public class AnalisaNumeros {
 		System.out.print("Média: " + calculoMedia);
 		
 		
-		
 
 	}
 
