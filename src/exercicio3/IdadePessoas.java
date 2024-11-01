@@ -28,9 +28,9 @@ public class IdadePessoas {
 		 
 		   System.out.println("Total de pessoas com menos de 21 anos: " + menor21);
 	       System.out.println("Total de pessoas com mais de 50 anos: " + maior50);
-		
-		
-		
+	       
+	       
+	
 	}
 
 }
